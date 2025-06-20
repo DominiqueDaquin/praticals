@@ -1,0 +1,20 @@
+{
+  "name": "pratical2",
+  "version": "1.0.0",
+  "description": "dominique's work",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch":"sass --watch sass/style.scss:src/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DominiqueDaquin/dominique-pratical2.git"
+  },
+  "author": "dominique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DominiqueDaquin/dominique-pratical2/issues"
+  },
+  "homepage": "https://github.com/DominiqueDaquin/dominique-pratical2#readme"
+}
